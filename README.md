@@ -1,6 +1,7 @@
 # Woodify Furniture App
 
-A new Flutter project.
+Furniture E-commerce App Template is a comprehensive platform designed to simplify the process of buying furniture online. 
+Whether you’re looking to furnish your home or office, this app provides a wide range of furniture options to suit every taste and budget.
 
 ## Screenshots
 
